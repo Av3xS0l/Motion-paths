@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1693486206 source:c:\users\patriks\documents\___skola___\zpd\mans\cmprmlga\cpp\stagger.cpp
+
+1693495628 source:c:\users\patriks\documents\___skola___\zpd\mans\cmprmlga\cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"stagger.h"
+
+1693486295 c:\users\patriks\documents\___skola___\zpd\mans\cmprmlga\cpp\stagger.h
+
+1693810004 source:c:\users\patriks\documents\___skola___\zpd\mans\cpp\src\parameters.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<exception>
+	"../include/parameters.h"
+
+1693832635 c:\users\patriks\documents\___skola___\zpd\mans\cpp\include\parameters.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<exception>
+
+1693841860 source:c:\users\patriks\documents\___skola___\zpd\mans\cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cmath>
+	<exception>
+	<string>
+	<numeric>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"include/parameters.h"
+
