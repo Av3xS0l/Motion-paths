@@ -7,6 +7,8 @@ A lot of inspiration about the mechanical simulation has been driven from the pr
 
 The project was developed as a student project for the national science fair in 2023.
 
+This project uses genetic algorithm and cosine distance to find closest possible curve to the given curve that can be recreated with an specific mechanical assambley (see the links above for further details). 
+
 # Usage
 Ther are 2 versions of the project:
  - Python version - more easy to read, original implementation, relativly slow (1 generation ~ 20 seconds).
